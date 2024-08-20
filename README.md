@@ -16,7 +16,7 @@ Result-oriented Software Engineer, Blockchain Developer and Security Researcher 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,docker,githubactions,haskell,idea,ai,java,latex,linux,maven,mysql,mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
