@@ -2,8 +2,8 @@
 
 Result-oriented Software Engineer, Blockchain Developer and Security Researcher with a strong background in software engineering and testing. Proven expertise in designing and implementing user interfaces, conducting unit tests, and specifying feature deliverables. Proficient in programming languages such as JavaScript/TypeScript, Java, Solidity, PHP, Haskell and experienced in databases like MySQL and MongoDB.
 
-![weshare237's Stats](https://github-readme-stats.vercel.app/api?username=weshare237&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weshare237&layout=compact)
+| <a href="https://github.com/weshare237/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weshare237&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/weshare237/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshare237&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 🚀 About Me
 
