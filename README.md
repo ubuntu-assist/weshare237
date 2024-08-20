@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Ubuntu Assist](https://www.linkedin.com/company/ubuntuassist)
 
-- 💬 Ask me about **Spring, Java, Solidity, Foundry, Ethers.js, Wagmi, Docker, AWS, React, Testing, ....**
+- 💬 Ask me about **Spring, Java, Solidity, Foundry, Ethers.js, Wagmi, Docker, AWS, JavaScript/TypeScript, React, Express.js, Testing, ....**
 
 - 📫 How to reach me **fopaduclair2000@yahoo.com**
 
