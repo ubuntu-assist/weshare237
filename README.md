@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fopa Kuété Duclair</h1>
-<h3 align="center">A passionate Software Engineer and Blockchain Developer from Cameroon</h3>
+<h3 align="center">A passionate Software Engineer and Blockchain Developer from Cameroon 🇨🇲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weshare237&label=Profile%20views&color=0e75b6&style=flat" alt="weshare237" /> </p>
 
