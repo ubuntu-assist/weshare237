@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Bouali</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia living in Germany</h3>
+<h1 align="center">Hi 👋, I'm Duclair Fopa</h1>
+<h3 align="center">A passionate Software Engineer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weshare237&label=Profile%20views&color=0e75b6&style=flat" alt="weshare237" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://aliboucoding.com](https://aliboucoding.com)
 
-- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
+- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, React, Testing, ....**
 
-- 📫 How to reach me **contact@aliboucoding.com**
+- 📫 How to reach me **fopaduclair2000@yahoo.com**
 
 - ⚡ Fun fact **Make learning funny**
 
