@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weshare237" alt="weshare237" /></a> </p>
 
-- 🔭 I’m currently working on **smicro-services professional class**
+- 🔭 I’m currently working on a **dynamically configurable data processor**
 
 - 📝 I regularly write articles on [Ubuntu Assist](https://www.linkedin.com/company/ubuntuassist)
 
