@@ -1,6 +1,6 @@
-# Hi, I'm Duclair Fopa Kuété! 👋
+# Hi, I'm Fopa Kuété Duclair! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Result-oriented Software Engineer, Blockchain Developer and Security Researcher with a strong background in software engineering and testing. Proven expertise in designing and implementing user interfaces, conducting unit tests, and specifying feature deliverables. Proficient in programming languages such as JavaScript/TypeScript, Java, Solidity, PHP, Haskell and experienced in databases like MySQL and MongoDB.
 
 ![weshare237's Stats](https://github-readme-stats.vercel.app/api?username=weshare237&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
